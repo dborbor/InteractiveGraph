@@ -1,3 +1,6 @@
+"""
+Example file on how to display a networkx graph on a browser
+"""
 import json
 import networkx as nx
 from networkx.readwrite import json_graph
